@@ -6,6 +6,7 @@ router.get('/users', (req, res) => {
     .status(200)
     .json(users);
 });
+
 router.get('/users/:_id', (req, res) => {
   // eslint-disable-next-line no-underscore-dangle
   const userId = req.params._id;
