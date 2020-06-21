@@ -1,14 +1,14 @@
 {
-  "name": "sprint-13",
-  "version": "1.0.0",
-  "description": "",
+  "name": "sprint-12",
+  "version": "1.3.0",
+  "description": "Практическая работа №12: Серверная разработка на Node.js, Express.js",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Artem Glazyrin",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
